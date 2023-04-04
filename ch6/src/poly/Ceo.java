@@ -1,0 +1,12 @@
+package poly;
+
+public class Ceo extends Empoyee {
+
+	@Override
+	public void work() {
+		System.out.println(super.getName()+" "+super.getPosition()+" 이(가) 업무를 봅니다");
+	}
+	
+	
+	
+}
