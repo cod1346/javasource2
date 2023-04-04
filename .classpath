@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="javasource/fdasf/src"/>
+	<classpathentry kind="src" path="javasource/shop1/src"/>
+	<classpathentry kind="src" path="javasource/Simple-Java-Calculator/src"/>
+	<classpathentry kind="output" path="javasource/Simple-Java-Calculator/bin"/>
+</classpath>
